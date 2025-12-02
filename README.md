@@ -1,2 +1,2 @@
-# release
-terraform
+# terraform
+install terraform
